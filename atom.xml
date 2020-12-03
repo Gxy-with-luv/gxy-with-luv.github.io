@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gxy-with-luv.github.io</id>
     <title>《禅与Gromacs踩坑艺术》</title>
-    <updated>2020-11-23T07:12:38.540Z</updated>
+    <updated>2020-12-03T03:56:03.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gxy-with-luv.github.io"/>
     <link rel="self" href="https://gxy-with-luv.github.io/atom.xml"/>
@@ -10,4 +10,64 @@
     <logo>https://gxy-with-luv.github.io/images/avatar.png</logo>
     <icon>https://gxy-with-luv.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 《禅与Gromacs踩坑艺术》</rights>
+    <entry>
+        <title type="html"><![CDATA[赞美十二月的第三天]]></title>
+        <id>https://gxy-with-luv.github.io/post/zan-mei-shi-er-yue-de-di-san-tian/</id>
+        <link href="https://gxy-with-luv.github.io/post/zan-mei-shi-er-yue-de-di-san-tian/">
+        </link>
+        <updated>2020-12-03T02:12:32.000Z</updated>
+        <content type="html"><![CDATA[<p>在床上抖成筛子<br>
+但是 好喜欢cc<br>
+喜欢就是喜欢<br>
+但白天不可以太黏呢</p>
+<p>加油<br>
+今日</p>
+<ul>
+<li>整理统计钙调的各种数据
+<ul>
+<li>柾命啊我被Binding Order美到原地哭起来啊</li>
+</ul>
+</li>
+<li>备份暂时不那么用得到的数据（上Nars  (在搞了在搞了！)</li>
+<li>提交全apo&amp;全holo的任务</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赞美十二月的第二天]]></title>
+        <id>https://gxy-with-luv.github.io/post/zan-mei-shi-er-yue-de-di-er-tian/</id>
+        <link href="https://gxy-with-luv.github.io/post/zan-mei-shi-er-yue-de-di-er-tian/">
+        </link>
+        <updated>2020-12-02T14:09:18.000Z</updated>
+        <content type="html"><![CDATA[<p>精神稍稍有点陷入不稳定的状态 但是突然被治愈了<br>
+爱你真好啊<br>
+我有好多好多东西要好好思考，但我真的一直爱你。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赞美十二月的第一天]]></title>
+        <id>https://gxy-with-luv.github.io/post/zan-mei-shi-er-yue-de-di-yi-tian/</id>
+        <link href="https://gxy-with-luv.github.io/post/zan-mei-shi-er-yue-de-di-yi-tian/">
+        </link>
+        <updated>2020-12-01T01:52:53.000Z</updated>
+        <content type="html"><![CDATA[<p>大喜日子<br>
+早醒<br>
+吃了俩肉包<br>
+感觉一切都会好起来<br>
+开心到哭起来</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[给自己的cd44画好DDL]]></title>
+        <id>https://gxy-with-luv.github.io/post/gei-zi-ji-de-cd44-hua-hao-ddl/</id>
+        <link href="https://gxy-with-luv.github.io/post/gei-zi-ji-de-cd44-hua-hao-ddl/">
+        </link>
+        <updated>2020-11-23T12:08:24.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>11.23 Method部分初稿完成。 DDL！！！ <em>我怎么觉得我已经写好了</em></li>
+<li>11.23 开始intro部分，CD44的基本功能要求-cb效应解释-两态别构</li>
+<li>12.01 插一个最后部分，重要参考文献，今天交给飞哥</li>
+</ul>
+]]></content>
+    </entry>
 </feed>
