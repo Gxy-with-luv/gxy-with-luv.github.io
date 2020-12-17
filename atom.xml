@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gxy-with-luv.github.io</id>
     <title>《禅与Gromacs踩坑艺术》</title>
-    <updated>2020-12-04T03:02:39.719Z</updated>
+    <updated>2020-12-17T02:54:04.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gxy-with-luv.github.io"/>
     <link rel="self" href="https://gxy-with-luv.github.io/atom.xml"/>
@@ -10,6 +10,31 @@
     <logo>https://gxy-with-luv.github.io/images/avatar.png</logo>
     <icon>https://gxy-with-luv.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 《禅与Gromacs踩坑艺术》</rights>
+    <entry>
+        <title type="html"><![CDATA[1028深渊]]></title>
+        <id>https://gxy-with-luv.github.io/post/1028-shen-yuan/</id>
+        <link href="https://gxy-with-luv.github.io/post/1028-shen-yuan/">
+        </link>
+        <updated>2020-12-08T01:33:30.000Z</updated>
+        <content type="html"><![CDATA[<p>黑暗而温暖<br>
+说不定这才是最适合我的<br>
+人设很重要</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赞美十二月的第五天]]></title>
+        <id>https://gxy-with-luv.github.io/post/zan-mei-shi-er-yue-de-di-wu-tian/</id>
+        <link href="https://gxy-with-luv.github.io/post/zan-mei-shi-er-yue-de-di-wu-tian/">
+        </link>
+        <updated>2020-12-05T13:33:43.000Z</updated>
+        <content type="html"><![CDATA[<p>收到了建哥给的很多文献。<br>
+我今晚大致整理和简单瞄一眼，一会儿可能打算拿回去当小说读吧。<br>
+今天看见了BTS的漂亮舞台，炸药的锡锡dance break绝了，回头再补一下黑天鹅。<br>
+今天也听到了好多喜欢的歌。<br>
+交掉了给Ctan的文档，也交了很多任务<br>
+别担心哦   抱抱抱。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[赞美十二月的第四天]]></title>
         <id>https://gxy-with-luv.github.io/post/zan-mei-shi-er-yue-de-di-si-tian/</id>
